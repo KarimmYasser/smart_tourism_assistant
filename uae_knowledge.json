@@ -1,0 +1,107 @@
+{
+  "cities": {
+    "Dubai": {
+      "description": "The most cosmopolitan city in the UAE, known for its futuristic skyline, luxury shopping, and world-class attractions.",
+      "major_attractions": [
+        {
+          "name": "Burj Khalifa",
+          "description": "The world's tallest building with observation decks.",
+          "must_visit": true
+        },
+        {
+          "name": "Dubai Mall",
+          "description": "One of the world's largest shopping malls.",
+          "must_visit": true
+        },
+        {
+          "name": "Palm Jumeirah",
+          "description": "Man-made island shaped like a palm tree.",
+          "must_visit": true
+        },
+        {
+          "name": "Dubai Fountain",
+          "description": "The world's largest choreographed fountain system.",
+          "must_visit": true
+        },
+        {
+          "name": "Dubai Marina",
+          "description": "Stunning waterfront district with skyscrapers.",
+          "must_visit": false
+        }
+      ],
+      "best_time_to_visit": "November to March",
+      "average_temperature": "25-30°C (winter), 35-45°C (summer)"
+    },
+    "Abu Dhabi": {
+      "description": "The capital city of the UAE, known for its cultural attractions and grand mosque.",
+      "major_attractions": [
+        {
+          "name": "Sheikh Zayed Grand Mosque",
+          "description": "One of the world's largest mosques.",
+          "must_visit": true
+        },
+        {
+          "name": "Louvre Abu Dhabi",
+          "description": "World-renowned art museum.",
+          "must_visit": true
+        },
+        {
+          "name": "Emirates Palace",
+          "description": "Luxurious hotel with opulent architecture.",
+          "must_visit": false
+        },
+        {
+          "name": "Corniche Beach",
+          "description": "8km stretch of pristine beach.",
+          "must_visit": false
+        }
+      ],
+      "best_time_to_visit": "October to April",
+      "average_temperature": "24-28°C (winter), 34-42°C (summer)"
+    }
+  },
+  "cultural_tips": [
+    {
+      "category": "Dress Code",
+      "tip": "Dress modestly in public areas. Cover shoulders and knees."
+    },
+    {
+      "category": "Religion",
+      "tip": "Show respect during prayer times and avoid eating in public during Ramadan."
+    },
+    {
+      "category": "Greetings",
+      "tip": "A handshake is common. Wait for women to extend their hand first."
+    },
+    {
+      "category": "Photography",
+      "tip": "Avoid photographing people without permission, especially women."
+    },
+    {
+      "category": "Alcohol",
+      "tip": "Available in licensed venues. Public intoxication is illegal."
+    }
+  ],
+  "activities": {
+    "adventure": [
+      "Desert safari with dune bashing",
+      "Skydiving over Palm Jumeirah",
+      "Zip-lining at Jebel Jais"
+    ],
+    "culture": [
+      "Visit traditional souks",
+      "Dhow cruise with dinner",
+      "Heritage village tours"
+    ],
+    "luxury": [
+      "Stay at Burj Al Arab",
+      "Shopping at Dubai Mall",
+      "Private yacht charters"
+    ],
+    "family": [
+      "Theme parks at Yas Island",
+      "Dubai Aquarium visits",
+      "Beach days with water sports"
+    ]
+  }
+}
