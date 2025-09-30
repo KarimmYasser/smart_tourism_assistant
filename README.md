@@ -1,4 +1,4 @@
-# 🇦🇪 Smart Tourism Assistant for the UAE
+# Smart Tourism Assistant for the UAE
 ## LangChain Multi-Tool Agent
 
 ### Overview

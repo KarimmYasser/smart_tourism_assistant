@@ -1,8 +1,3 @@
----
-noteId: "e7a9a0809df411f0a819e78d50eb9548"
-tags: []
----
-
 # 🇦🇪 UAE Smart Tourism Assistant - Testing Guide
 
 ## ✅ Project Status: FULLY FUNCTIONAL
